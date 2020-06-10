@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageFilter/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagefilter" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagefilter" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
