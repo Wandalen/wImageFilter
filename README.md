@@ -1,5 +1,5 @@
 
-# module::ImageFilter - Experimental [![Status](https://github.com/Wandalen/wImageFilter/workflows/Test/badge.svg)](https://github.com/Wandalen/wImageFilter/actions?query=workflow%3ATest)
+# module::ImageFilter [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental) [![Status](https://github.com/Wandalen/wImageFilter/workflows/Test/badge.svg)](https://github.com/Wandalen/wImageFilter/actions?query=workflow%3ATest)
 
 ___
 
