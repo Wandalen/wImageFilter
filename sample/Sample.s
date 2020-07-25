@@ -3,5 +3,5 @@ let _ = require( 'wimagefilter' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
