@@ -1470,6 +1470,4 @@ module:
       ../.im.will.yml:
         hash: 4d50711ce5faea25ba90d154316fef2c
         size: 4731
-      wImageFilter.out.will.yml:
-        hash: 5041425e96ffdc845c88de2061f7f8bf
-        size: 37309
+      wImageFilter.out.will.yml: *ref_0
