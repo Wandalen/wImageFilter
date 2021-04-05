@@ -63,8 +63,8 @@ path:
       raw: compiled
       content: prime
   npm.proto.entry:
-    - /pro/module/wImageFilter/proto/wtools/Tools.s
-    - /pro/module/wImageFilter/proto/node_modules/wimagefilter
+    - proto/wtools/Tools.s
+    - proto/node_modules/wimagefilter
 reflector:
   reflect.proto:
     inherit: predefined.*
